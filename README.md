@@ -26,10 +26,10 @@ Google Forms → HTTP (AI API) → Google Sheets → Gmail + Slack
 
 
 ### Workflow áttekintés
-![Workflow](screenshots/workflow.png)
+![Workflow](screenshots/3-make-flow.jpg)
 
 ### Google Sheets eredmény
-![Google Sheets](screenshots/google-sheets.png)
+![Google Sheets](screenshots/2-gsheet.jpg)
 
-### Slack értesítés
-![Slack](screenshots/slack-notification.png)
+### Email értesítés
+![Email](screenshots/4-missing-email-address.jpg)
