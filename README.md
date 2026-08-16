@@ -32,4 +32,4 @@ Google Forms → HTTP (AI API) → Google Sheets → Gmail + Slack
 ![Google Sheets](screenshots/2-gsheet.jpg)
 
 ### Email értesítés
-![Email](screenshots/4-missing-email-address.jpg)
+![Email](screenshots/3-email.png)
